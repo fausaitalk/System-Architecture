@@ -10,3 +10,5 @@
 第五章：[系统架构设计师知识点总结：系统配置与性能评价](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485248&idx=1&sn=46fb640fa99f709f64cf160a08bcdfc3&chksm=c012b36df7653a7b71091452cd91c458575bffb470eb7bc40fb4cfc18cfc84f3c60c27010062&token=1201544985&lang=zh_CN#rd)
 
 第六章：[系统架构设计师知识点总结：软件的知识产权保护与标准化](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485259&idx=1&sn=d83e262851d817db3e7faea467ab26fa&chksm=c012b366f7653a70332c78bf86f04c594eade1b5754798dfc752f8584f6cbdab838afdfcfe7d&token=1274642282&lang=zh_CN#rd)
+
+第七章：[系统架构设计师知识点总结：软件工程之软件开发](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485319&idx=1&sn=720225b8579a33dd29feb85d7b816480&chksm=c012b3aaf7653abcefa09c1a4e113da7fef08fd24c911326b16691e0edd651ddddf1d1334a3b&token=1274642282&lang=zh_CN#rd)
