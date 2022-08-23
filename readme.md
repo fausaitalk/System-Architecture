@@ -16,3 +16,5 @@
 第八章：[系统架构设计师知识点总结：需求工程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485489&idx=1&sn=5ddccae49e7c89e15450e945610e6a95&chksm=c012bc1cf765350a159cad5efb8f662efea76e7f7591f00bf89d7fff4fe531466488fef0b8f7&token=1274642282&lang=zh_CN#rd)
 
 第九章：[系统架构设计师知识点总结：软件系统设计](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485510&idx=1&sn=2884af9b7f65794d9bf24cdb28372f25&chksm=c012bc6bf765357d5f461c544d4b2ba51a167d6bec5fa3508ec8553264171f1c7c127d09579a&token=1889923822&lang=zh_CN#rd)
+
+第十章：[系统架构设计师知识点总结：软件测试](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485511&idx=1&sn=f645511c095b1e8395a9fad27c0bf958&chksm=c012bc6af765357cdadbf4903b527bd40085f29df6ebf913aeb46c628eabd82987fe93d30754&token=1889923822&lang=zh_CN#rd)
