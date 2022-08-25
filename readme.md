@@ -18,3 +18,5 @@
 第九章：[系统架构设计师知识点总结：软件系统设计](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485510&idx=1&sn=2884af9b7f65794d9bf24cdb28372f25&chksm=c012bc6bf765357d5f461c544d4b2ba51a167d6bec5fa3508ec8553264171f1c7c127d09579a&token=1889923822&lang=zh_CN#rd)
 
 第十章：[系统架构设计师知识点总结：软件测试](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485511&idx=1&sn=f645511c095b1e8395a9fad27c0bf958&chksm=c012bc6af765357cdadbf4903b527bd40085f29df6ebf913aeb46c628eabd82987fe93d30754&token=1889923822&lang=zh_CN#rd)
+
+第十一章：[系统架构设计师知识点总结：系统运行与维护](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485512&idx=1&sn=127106d1cc0c44576a548b260a67359b&chksm=c012bc65f765357347c309d233a785a496b4d6fb20835d3099dfc2c05866c1ddccce3cafcee8&token=1396812793&lang=zh_CN#rd)
