@@ -23,3 +23,5 @@
 
 
 第十二章：[系统架构设计师知识点总结：软件架构概念](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485513&idx=1&sn=b5d6d87729908d97f127d34c49fa1542&chksm=c012bc64f7653572377a65888af16ccbe8c40d02292cf103d9506ef6fd2723f60bc9bcc6b39e&token=1396812793&lang=zh_CN#rd)
+
+第十三章：[系统架构设计师知识点总结：软件架构风格](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485517&idx=1&sn=6d72ac59eb88e34a44c8e7a167a7e44b&chksm=c012bc60f7653576e819664280ec84aad7d8521d52d672fda7e816ffc902c7f19bee9871c0eb&token=1396812793&lang=zh_CN#rd)
