@@ -27,3 +27,5 @@
 第十三章：[系统架构设计师知识点总结：软件架构风格](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485517&idx=1&sn=6d72ac59eb88e34a44c8e7a167a7e44b&chksm=c012bc60f7653576e819664280ec84aad7d8521d52d672fda7e816ffc902c7f19bee9871c0eb&token=1396812793&lang=zh_CN#rd)
 
 第十四章：[系统架构设计师知识点总结：软件架构评估](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485518&idx=1&sn=c278afdc432cf8fc09ec9a64c0051efa&chksm=c012bc63f7653575c89beeb8973d0b2a052f502a316ec4db52ba7b319cdc388c1b124493dd66&token=1396812793&lang=zh_CN#rd)
+
+第十五章：[系统架构设计师知识点总结：构件与中间件的基本概念](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485557&idx=1&sn=adb7570efd6646172b7d95a708d4aa0e&chksm=c012bc58f765354e0e64858fe14cdec238e2d21f87bd5028df6b071eb9caacaf46839cc08d78&token=1101372375&lang=zh_CN#rd)
