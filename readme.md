@@ -33,3 +33,4 @@
 第十六章：[系统架构设计师知识点总结：系统安全分析与设计](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485657&idx=1&sn=21307a8394defb9e9e8cecd0d3bbd30e&chksm=c012bcf4f76535e2a1a9849de3642e63ef5fa1732608ee905d80fa5f65b894896c988e6c5520&token=1101372375&lang=zh_CN#rd)
 
 第十七章：[系统架构设计师知识点总结：系统可靠性分析与设计](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485678&idx=1&sn=afc7765ffe4ffdacfe5794774a78875e&chksm=c012bcc3f76535d592e608076555fc190d44ed102fc90bcf5f066c383715299316b3c0a7407f&token=1101372375&lang=zh_CN#rd)
+
