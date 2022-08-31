@@ -30,3 +30,6 @@
 
 第十五章：[系统架构设计师知识点总结：构件与中间件的基本概念](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485557&idx=1&sn=adb7570efd6646172b7d95a708d4aa0e&chksm=c012bc58f765354e0e64858fe14cdec238e2d21f87bd5028df6b071eb9caacaf46839cc08d78&token=1101372375&lang=zh_CN#rd)
 
+第十六章：[系统架构设计师知识点总结：系统安全分析与设计](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485657&idx=1&sn=21307a8394defb9e9e8cecd0d3bbd30e&chksm=c012bcf4f76535e2a1a9849de3642e63ef5fa1732608ee905d80fa5f65b894896c988e6c5520&token=1101372375&lang=zh_CN#rd)
+
+
