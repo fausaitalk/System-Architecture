@@ -35,3 +35,5 @@
 第十七章：[系统架构设计师知识点总结：系统可靠性分析与设计](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485678&idx=1&sn=afc7765ffe4ffdacfe5794774a78875e&chksm=c012bcc3f76535d592e608076555fc190d44ed102fc90bcf5f066c383715299316b3c0a7407f&token=1101372375&lang=zh_CN#rd)
 
 第十八章：[系统架构设计师知识点总结：项目管理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485684&idx=1&sn=3218b2b1308603f02bbd5e92e3cb8d3c&chksm=c012bcd9f76535cf8ec30d0c925eb5832452d2bab1d956653bf452f766c37bda84f01646a00b&token=244535422&lang=zh_CN#rd)
+
+第十九章：[系统架构设计师知识点总结：企业信息化战略与实施](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485774&idx=1&sn=1d07cab79b54b8eab26002fb8c245e1c&chksm=c012bd63f7653475922e770ae9ed5fe41a2fb864912114f82f4592608b59c1eb3625adbba400&token=1353359654&lang=zh_CN#rd)
