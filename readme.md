@@ -39,3 +39,4 @@
 第十九章：[系统架构设计师知识点总结：企业信息化战略与实施](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485774&idx=1&sn=1d07cab79b54b8eab26002fb8c245e1c&chksm=c012bd63f7653475922e770ae9ed5fe41a2fb864912114f82f4592608b59c1eb3625adbba400&token=1353359654&lang=zh_CN#rd)
 
 第二十章：[系统架构设计师知识点总结：数学与经济管理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485869&idx=1&sn=c1eb78d6cae5ddf5bf07b5207557b2af&chksm=c012bd80f765349682d0db1e271bc32663922e4f8844651a333c1d3ca1017653c592aa2e4bcc&token=1353359654&lang=zh_CN#rd)
+
